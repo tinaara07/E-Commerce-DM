@@ -35,6 +35,10 @@ For POST, PUT, and DELETE requests, responses will confirm the status of the ope
 Links
 
 ![Untitled Video December 2, 2024 10_15 PM (1)](https://github.com/user-attachments/assets/db9ae51c-3996-47bc-aa4c-4e42b3975136)
+
+
+
 ![Untitled Video December 2, 2024 10_17 PM (1)](https://github.com/user-attachments/assets/26edfe92-1cf8-401e-8548-2f8265bc9e6c)
+
 
 
