@@ -44,7 +44,8 @@ For POST, PUT, and DELETE requests, responses will confirm the status of the ope
 Links:
 
 https://github.com/tinaara07/E-Commerce-DM
- walk through video:
+ 
+ Walk through video:
  
  https://drive.google.com/file/d/1vDVsJ71o6q-TNDFMiDeSiBbNQRuZBvEc/view
 
