@@ -6,6 +6,8 @@ E-Commerce-Data Manager provides a functional Express.js API that connects to a 
 
 Features
 
+
+
 Database Connection: The app connects to PostgreSQL using Sequelize for ORM-based interaction.
 
 Environment Variables: Database credentials are configured through an environment variable file (.env).
@@ -17,6 +19,9 @@ CRUD Operations: The API supports POST, PUT, DELETE, and GET routes to manage an
 Formatted JSON Responses: All data responses are returned in a clean, formatted JSON structure.
 
 Requirements
+
+
+
 Node.js
 
 PostgreSQL
@@ -26,6 +31,9 @@ Insomnia (or any other API client)
 API Endpoints
 
 Categories
+
+
+
 
 GET /categories: Retrieve a list of all categories.
 
@@ -37,6 +45,9 @@ DELETE /categories/:id: Delete a category.
 
 Products
 
+
+
+
 GET /products: Retrieve a list of all products.
 
 POST /products: Add a new product.
@@ -46,6 +57,9 @@ PUT /products/:id: Update product details.
 DELETE /products/:id: Delete a product.
 
 Tags
+
+
+
 
 GET /tags: Retrieve a list of all tags.
 
@@ -59,11 +73,16 @@ For POST, PUT, and DELETE requests, responses will confirm the status of the ope
 
 Links:
 
+
+
 https://github.com/tinaara07/E-Commerce-DM
- 
+
  Walk through video:
+
+ 
  
  https://drive.google.com/file/d/1vDVsJ71o6q-TNDFMiDeSiBbNQRuZBvEc/view
+ 
 
 ![Untitled Video December 2, 2024 10_15 PM (1)](https://github.com/user-attachments/assets/db9ae51c-3996-47bc-aa4c-4e42b3975136)
 
